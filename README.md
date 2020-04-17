@@ -7,9 +7,11 @@
 * Description of the update (#PR_NUMBER)
 
 ### A ta canchero no?
-kinooo!
+alan!
 ![](./release_0.0.1-mojito/alan.gif)
-kiiiiinooo!
+alan alan!
 
 ## Other
 * Description of the update (#PR_NUMBER)
+kino!
+![](./release_0.0.1-mojito/kino.gif)
